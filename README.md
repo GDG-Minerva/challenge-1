@@ -40,9 +40,10 @@ https://gdg-minerva-core.github.io/vanillaJSexercise/
 
 ## 📤 Submission Guidelines
 1. Fork this repository
-2. Create your project in your forked repository
-3. Implement the calculator according to requirements
-4. Send the links to your repositories to tech leads (through Slack/Telegram/email)
+2. Build your calculator in your forked repo.
+3. Make your repo public and add a screenshot/video of your app in the README.
+4. Submit your GitHub repo link via [Google Forms](https://forms.gle/nSnWdMiZ9go8BmG56).
+
 
 ## 📅 Deadline
 March 15, 2025
